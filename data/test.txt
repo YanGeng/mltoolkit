@@ -1,0 +1,21 @@
+北	O
+京	O
+感	O
+动	O
+了	O
+李	B-PER-NAM
+开	I-PER-NAM
+复	I-PER-NAM
+
+回	O
+复	O
+支	O
+持	O   
+
+回  O
+复  O
+支  O
+持  O
+李  B-PER-NAM
+开  I-PER-NAM
+复  I-PER-NAM
